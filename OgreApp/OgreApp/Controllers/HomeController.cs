@@ -20,9 +20,9 @@ namespace OgreApp.Controllers
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult MyTrips()
         {
-            ViewBag.Message = "Your contact page.";
+            //ViewBag.Message = "Your contact page.";
 
             return View();
         }

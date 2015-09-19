@@ -7,6 +7,10 @@
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
+    background-image: url("../Images/LoginBackground.png");
+    background-position: center;
+    background-size: 100%;
+    
 }
 
 /* Override the default bootstrap behavior where horizontal description lists 
